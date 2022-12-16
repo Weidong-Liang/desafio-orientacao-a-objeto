@@ -1,6 +1,6 @@
 ﻿using DesafioPOO.Models;
 
-// TODO: Realizar os testes com as classes Nokia e Iphone
+
 
 Iphone ap1 = new Iphone("0123456789", 150, "geracao a1", "20222020");
 
